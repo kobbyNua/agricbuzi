@@ -31,12 +31,12 @@ h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400
 .about-us{padding: 90px 0px}
 .our-team{padding: 90px 30px}
 .our-team .card{height: 70vh;width: 100%;background-color: #fff;background-size: cover;background-repeat: no-repeat;background-position: 50% 50%;}
-.our-team .card .card-overlay{background-color: rgba(37, 53, 38, 0.5);padding-top: 35px;color: #fff;text-align: center;width:0%;height: 100%;rigth:0;bottom: 0;bottom: 0;left: 0;overflow: hidden;position: absolute;transition: .5s ease}
+.our-team .card .card-overlay{background-color: rgba(37, 53, 38, 0.5);padding-top:105px;color: #fff;text-align: center;width:0%;height: 100%;rigth:0;bottom: 0;bottom: 0;left: 0;overflow: hidden;position: absolute;transition: .5s ease}
 .our-team .card:hover  .card-overlay{width: 100%}
 .our-team .card .card-overlay ul{list-style: none;}
 .our-team .card .card-overlay ul li{display: inline-block;margin-right: 10px}
 .our-team .card .office-holder ul li a{color: #FFADO1}
-.our-team .card .office-holder{padding:60px;}
+
 /*.our-team .card .card-body{padding:20px}
 .our-team .office-holder{position:absolute;bottom: 10px;color: #f3f3f3;text-transform:capitalize;}*/
 /*.contacts-forms{position: absolute;left:0px;right: 0px;margin: auto}*/
@@ -90,6 +90,9 @@ h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400
           .service-banner .service-content .wp-col-3{padding-bottom: 8px}
           .subscribe .col-md-10{width: 80%}
           .subscribe .col-md-2{width: 10%}
-          .subscribe input{padding:10px;border-radius: 0px;border: none;width: 100%}
-          .subscribe button{padding:5px;width:100%;color: #fff;background-color: #FFAD01;border: none;border-radius: 0px;}
+          .subscribe input{padding:13px;border-radius: 0px;border: none;width: 100%}
+          .subscribe button{padding:6px;width:100%;color: #fff;background-color: #FFAD01;border: none;border-radius: 0px;}
+
+
+          .our-team .card{height: 60vh;width: 100%;}
 }
