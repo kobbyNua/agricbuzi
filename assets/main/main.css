@@ -81,3 +81,11 @@ h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400
 .footer .upper-footer .address-info{padding:20px 0px}
 .footer .upper-footer .address-info:not(:last-child){border-bottom:1px dashed #f3f3f3; }
 .footer .lower-footer{padding:20px 0px;background-color: #333;color: #ebebeb;text-align: center;}
+
+
+@media only screen and (min-width:320px) and (max-width:768px){
+
+          .service-banner .service-content .wp-col-3:not(:last-child){border-right:none;border-bottom:border-right: 1px solid #ddd ;}
+
+
+}
