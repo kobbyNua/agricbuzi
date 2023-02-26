@@ -94,5 +94,5 @@ h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400
           .subscribe button{padding:6px;width:100%;color: #fff;background-color: #FFAD01;border: none;border-radius: 0px;}
 
 
-          .our-team .card{height: 50vh;width: 100%;}
+          .our-team .card{height: 60vh;width: 100%;padding-top:87px ;}
 }
