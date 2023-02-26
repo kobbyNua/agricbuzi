@@ -36,6 +36,7 @@ h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400
 .our-team .card .card-overlay ul{list-style: none;}
 .our-team .card .card-overlay ul li{display: inline-block;margin-right: 10px}
 .our-team .card .office-holder ul li a{color: #FFADO1}
+.our-team .card .office-holder{padding:60px;}
 /*.our-team .card .card-body{padding:20px}
 .our-team .office-holder{position:absolute;bottom: 10px;color: #f3f3f3;text-transform:capitalize;}*/
 /*.contacts-forms{position: absolute;left:0px;right: 0px;margin: auto}*/
