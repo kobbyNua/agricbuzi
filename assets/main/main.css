@@ -114,6 +114,7 @@ h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400
           .subscribe input{padding:13px;border-radius: 0px;border: none;width: 100%}
           .subscribe button{padding:6px;width:100%;color: #fff;background-color: #FFAD01;border: none;border-radius: 0px;}
 
-
+           .contact-info{text-align: center}
           .our-team .card{height: 60vh;width: 100%;padding-top:87px ;}
+          .footer .col-md-4 .footer-info{text-align: center;}
 }
