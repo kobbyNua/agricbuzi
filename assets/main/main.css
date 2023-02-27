@@ -4,7 +4,11 @@
 a,p,span,li{font-family:"Quicksand","Montserrat";font-weight: 400}
 h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400;text-transform: uppercase;}
 
-.top-nav{width: 100%;background-color: #272727}
+.topnav{width: 100%;#fff;overflow: hidden;}
+.topnav a{float: left;text-decoration: none;padding: 14px 16px;text-align: center;}
+.topnav #logo img{width: 40%;}
+.topnav .topnav-right{float: right;}
+.topnav .topnav-right a{margin-top: 20px;}
 #header{background-color: transparent !important;position:absolute;z-index: 10;padding:10px;width: 100%;}
 #header .navbar-nav li a{width: 120px;padding: 10px;text-transform: uppercase;color: #fcfcfc !important;font-weight: bold}
 #header .navbar-nav li a.active{border-bottom: 1px solid #FFAD01;}
@@ -86,6 +90,16 @@ h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400
 .footer .upper-footer .address-info:not(:last-child){border-bottom:1px dashed #f3f3f3; }
 .footer .lower-footer{padding:20px 0px;background-color: #333;color: #ebebeb;text-align: center;}
 
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../images/logo.png') 50% 50% no-repeat rgb(249,249,249);
+    opacity: .8;
+}
 
 @media only screen and (min-width:320px) and (max-width:768px){
 
