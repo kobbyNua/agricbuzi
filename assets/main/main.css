@@ -64,7 +64,9 @@ h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400
 .subscribe button i{font-size: 2em}
 .subscribe .subscribe-overlay{background-color: rgba(37, 53, 38, 0.5);padding: 130px 1px;}
 
-
+.our-partner{padding: 90px 0px}
+.our-partner .col-md-4 img{width: 100%;height:300px}
+.our-partner h1{text-align: center;font-size: 4.9em;font-family: 'Oregano';color: #ffff}
 .contact-info .col-md-4 i{font-size: 3.3em;color: #FFAD01;}
 .contact-info .col-md-4 h3{text-transform: capitalize;}
 .contact-info .col-md-4 p a{color: #fff;}
