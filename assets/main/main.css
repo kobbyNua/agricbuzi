@@ -87,6 +87,7 @@ h1,h2,h3,h4,h5,h6{font-family:"Oswald","Quicksand","Montserrat";font-weight: 400
 .footer .upper-footer .social{width: 100%;padding: 30px 0px;border-bottom: 1px dashed #f3f3f3;}
 .footer .upper-footer .social .social-icon{float: left;width: 20%;margin-right: 2px;}
 .footer .upper-footer .address-info{padding:20px 0px}
+.footer .upper-footer a{color: #808080}
 .footer .upper-footer .address-info:not(:last-child){border-bottom:1px dashed #f3f3f3; }
 .footer .lower-footer{padding:20px 0px;background-color: #333;color: #ebebeb;text-align: center;}
 
